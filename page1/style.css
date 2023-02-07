@@ -217,10 +217,7 @@ nav:hover {
   color: #FFFFFF;
   position: relative;
   bottom: 100px;
-  /* top: 300px; */
 }
-
-/* next */
 
 .centerBox {
   margin: 0 auto;
@@ -355,7 +352,7 @@ nav:hover {
 }
 
 .left_arrow {
-  background-image: url(./../media/main1-img/Arrow\ 2.svg);
+  background-image: url(../images/main1-img/Arrow\ 2.svg);
   position: absolute;
   width: 100%;
   height: 400px;
@@ -366,7 +363,7 @@ nav:hover {
 }
 
 .right_arrow {
-  background-image: url(./../media/main1-img/Arrow\ 2.svg);
+  background-image: url(../images/main1-img/Arrow\ 2.svg);
   position: absolute;
   width: 100%;
   height: 400px;
@@ -479,10 +476,6 @@ nav:hover {
   background-color: white;
 }
 
-/* neft-end */
-
-/* support-star */
-
 .support {
   max-width: 1200px;
   width: 100%;
@@ -555,7 +548,7 @@ nav:hover {
   height: 550px;
 }
 
-/* BUNYODBEK PAGE1 MAIN1 START */
+/* BUNYODBEK PAGE1 MAIN1 END */
 
 
 /* MUHAMMAD PAGE1 MAIN2 START */
